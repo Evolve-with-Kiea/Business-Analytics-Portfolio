@@ -1,0 +1,32 @@
+# Excel Projects
+
+This section will hold Excel-based analyses that apply spreadsheet skills to realistic business questions: sales reporting, financial analysis, and performance tracking.
+
+## Project Areas
+
+| Folder | Focus |
+|---|---|
+| [Sales-Dashboard](Sales-Dashboard/README.md) | Sales metrics, trends, and target tracking |
+| [Financial-Analysis](Financial-Analysis/README.md) | Revenue, expenses, profit, ratios, and budget comparisons |
+| [Business-Performance](Business-Performance/README.md) | KPI tracking and goal monitoring |
+
+## What This Section Will Demonstrate
+
+- Structured and well-documented workbooks
+- Appropriate use of formulas, PivotTables, and charts
+- Clear communication of results to a business audience
+- Data cleaning and validation habits
+
+## How Projects Are Added
+
+1. Choose a business question and note it in the project README.
+2. Select a public, synthetic, or anonymized dataset (see [Dataset Sources](../Documentation/Dataset-Sources.md)).
+3. Follow the [Analytical Methodology](../Documentation/Analytical-Methodology.md).
+4. Document the project using the [Project Documentation Standards](../Documentation/Project-Documentation-Standards.md).
+5. Update [Portfolio Progress](../Documentation/Portfolio-Progress.md).
+
+## Current Status
+
+No projects have been completed in this section yet. It is a developing area of the portfolio.
+
+Return to the [portfolio home](../README.md).
