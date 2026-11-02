@@ -1,0 +1,15 @@
+# Excel and office lock files
+~$*
+
+# Local temporary files
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Local environments and credentials
+.env
+.env.*
+!.env.example
+__pycache__/
+.venv/

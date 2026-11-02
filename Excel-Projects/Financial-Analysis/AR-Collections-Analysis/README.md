@@ -74,8 +74,10 @@ The data is synthetic and contains no real customers or confidential employer re
 
 The project does not calculate DSO, bad-debt provisions, collection forecasts, or collection success rates because the necessary supporting data is not included. SQL and Power BI are possible future extensions, not completed deliverables in this version.
 
-## Upload to GitHub
+## Review status
 
-Upload the workbook, this README, the other three Markdown files, and `dashboard-preview.png` together in the same repository folder. The relative links above will then work. Suggested repository name: `excel-ar-collections-analysis`.
+Analysis and documentation are built. A final open-and-refresh check of the revised file in desktop Excel remains pending; see [portfolio progress](../../../Documentation/Portfolio-Progress.md).
 
-If using the ZIP download, extract it first and upload its contents rather than only the ZIP. No GitHub publishing has been performed as part of this deliverable.
+## Navigation
+
+[Financial Analysis](../README.md) · [Portfolio home](../../../README.md)
