@@ -18,6 +18,12 @@ An invoice aging analysis and dashboard that identifies overdue balances and col
 
 **Status:** Analysis built and documented through a guided learning project. Source calculations and saved totals were reviewed; a final open-and-refresh check of the revised workbook in desktop Excel remains pending. Results use synthetic data and do not represent actual collections.
 
+## Creator Economy & Influencer Analytics (planned)
+
+A new specialization covering content and audience analytics, brand partnership reporting, affiliate earnings, creator financial analysis, and executive dashboards. **Twelve projects (31–42) are currently planned; no completed creator dashboards or client outcomes are claimed.**
+
+[Explore the Creator Economy Analytics project roadmap](Creator-Economy-Analytics/README.md) · [Track project status](Creator-Economy-Analytics/PROJECT-STATUS-TRACKER.md)
+
 ## Browse the portfolio
 
 | Area | What is available |
