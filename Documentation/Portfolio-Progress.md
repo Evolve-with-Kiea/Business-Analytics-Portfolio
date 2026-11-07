@@ -1,5 +1,9 @@
 # Portfolio Progress
 
+## Portfolio-wide Organization
+
+Use the [Portfolio Organization Guide](Portfolio-Organization.md) to classify each project as standalone, extension, or integrated case study. Category indexes are references, not additional completed projects. [AI ideas](../AI-and-Predictive-Analytics/PROJECT-RELATIONSHIPS.md) and [Creator Economy ideas](../Creator-Economy-Analytics/PROJECT-STATUS-TRACKER.md) remain planned.
+
 ## Current evidence
 
 | Project | Tool | Data | Status | Evidence |
