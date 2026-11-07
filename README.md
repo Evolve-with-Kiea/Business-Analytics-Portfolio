@@ -24,6 +24,20 @@ A new specialization covering content and audience analytics, brand partnership 
 
 [Explore the Creator Economy Analytics project roadmap](Creator-Economy-Analytics/README.md) · [Track project status](Creator-Economy-Analytics/PROJECT-STATUS-TRACKER.md)
 
+## Portfolio Organization & Project Types
+
+Every project has **one primary home** and may be referenced from several technical, domain, platform, industry, or AI indexes. Work is classified as **Standalone**, **Extension**, or **Integrated case study** so related projects show new skills without duplicating evidence.
+
+[Read the organization and classification guide](Documentation/Portfolio-Organization.md) · [View the project roadmap](Documentation/Project-Roadmap.md)
+
+## Additional Specializations (planned)
+
+| Specialization | Purpose | Status |
+|---|---|---|
+| [AI & Predictive Analytics](AI-and-Predictive-Analytics/README.md) | AI-assisted reporting, forecasting, machine learning, automation, and applications; [21 idea classifications](AI-and-Predictive-Analytics/PROJECT-RELATIONSHIPS.md) | 21 planned |
+| [Industry-Specific Analytics](Industry-Specific-Analytics/README.md) | Industry-based case studies and cross-references | Planning index |
+| [Platform-Specific Analytics](Platform-Specific-Analytics/README.md) | Platform-based case studies and cross-references | Planning index |
+
 ## Browse the portfolio
 
 | Area | What is available |
@@ -37,7 +51,7 @@ A new specialization covering content and audience analytics, brand partnership 
 | [Business Case Studies](Business-Case-Studies/README.md) | Approach to case studies and recommendations |
 | [Entrepreneurial Business Analytics](Entrepreneurial-Business-Analytics/README.md) | Future applications across my business interests |
 
-Each actual project has its own folder. Subject indexes link to that folder rather than duplicate its files. Future ideas live in the [project roadmap](Documentation/Project-Roadmap.md).
+Each actual project has one canonical folder. Tool, domain, industry, platform, and AI indexes cross-reference that folder rather than duplicate its files. Future ideas live in the [project roadmap](Documentation/Project-Roadmap.md).
 
 ## Skills and evidence
 
