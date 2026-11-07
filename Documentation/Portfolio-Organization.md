@@ -20,15 +20,6 @@ The same dataset may support multiple projects only when each has a materially d
 
 A planned extension is **not** evidence that its base project exists or is complete. If the base is only an idea, both remain planned.
 
-## Primary Home Decision Rules
-
-1. **Existing files win:** Keep a functioning project in its existing canonical folder unless there is a documented reason to migrate it.
-2. **Tool-led learning project:** Use the relevant tool folder (Excel, SQL, Python, Power BI). Add domain and AI links from indexes.
-3. **Domain-led independent case study:** Use the relevant specialization folder once development starts (Creator Economy, Industry-Specific, Platform-Specific, etc.).
-4. **Extension:** Add a clearly named subfolder or linked companion case study under the existing project when practical; otherwise create a distinct project folder with an explicit `Extends:` link.
-5. **Integrated case study:** Choose one primary business outcome and one canonical folder; link to it from all relevant indexes.
-6. **Planning ideas:** Keep them in the roadmap or category README. Do not create empty project folders merely for a planned idea.
-
 ## Standard Project Metadata
 
 Include these fields in the project README or tracking record:
