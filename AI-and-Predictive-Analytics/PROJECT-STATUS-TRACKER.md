@@ -17,6 +17,10 @@ Central tracker for project selection, evidence, skill prerequisites, and public
 | Verified | 0 |
 | Portfolio-ready | 0 |
 
+## Project Classification
+
+Each proposed project is mapped to a **Standalone**, **Extension**, or **Integrated case study** classification in the [AI Project Relationships Register](PROJECT-RELATIONSHIPS.md). These relationships do not imply that any planned baseline is complete. Use [portfolio organization rules](../Documentation/Portfolio-Organization.md) when selecting a canonical project folder.
+
 ## Master Project Tracker
 
 | Area | Project | Difficulty | Status | Evidence |
