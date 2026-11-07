@@ -49,6 +49,10 @@ Each category contains detailed project briefs, proposed analytical methods, exp
 
 ---
 
+## Project Organization & Reuse
+
+Creator Economy projects are planned business-domain case studies. Before development, classify each as **Standalone**, **Extension**, or **Integrated case study**. For example, a content report may become the baseline for an AI Content Performance Analyzer; the AI work should link back and document its additional method rather than duplicate the same report. The Creator Executive Dashboard is a natural candidate for an integrated capstone. See the [portfolio-wide organization guide](../Documentation/Portfolio-Organization.md) and [Creator relationship register](PROJECT-RELATIONSHIPS.md).
+
 ## Portfolio Project Directory
 
 | # | Project | Priority | Difficulty | Status |
