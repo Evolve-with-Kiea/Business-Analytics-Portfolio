@@ -39,6 +39,10 @@ These figures reflect the project statuses documented in this tracker, not an as
 
 ---
 
+## Classification & Cross-References
+
+Each planned project has a recommended type in the [Creator Economy Project Relationships Register](PROJECT-RELATIONSHIPS.md). These classifications are provisional until actual work starts. Reuse verified data and link to existing canonical project folders; do not duplicate results or count a cross-reference as a separate completed project.
+
 ## Master Project Tracker
 
 | # | Project | Category | Priority | Difficulty | Status |
