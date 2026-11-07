@@ -29,6 +29,12 @@ The objective is to compare AI-enabled methods with transparent analytical basel
 - [AI Automation & Business Intelligence](04-AI-Automation-and-Business-Intelligence/README.md) — Repeatable KPI reporting, document processing, data quality, and controlled business workflows
 - [AI Product Development & Applied Solutions](05-AI-Product-Development-and-Applied-Solutions/README.md) — Future prototypes that combine business analytics, AI explanations, and usable applications
 
+## How AI Projects Relate to Existing Work
+
+Projects are classified as **Standalone**, **Extension**, or **Integrated case study**. Extensions reuse a baseline and must demonstrate a new method and independent validation; integrated cases combine related work into one coherent outcome. All classifications are provisional while projects remain planned.
+
+[View all 21 AI project relationships](PROJECT-RELATIONSHIPS.md) · [Portfolio-wide organization rules](../Documentation/Portfolio-Organization.md)
+
 ## Proposed Project Index
 
 | Project | Area | Level | Status |
