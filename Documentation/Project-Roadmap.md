@@ -2,6 +2,18 @@
 
 These are future ideas consolidated from the original planning folders. They are not completed projects and have no claimed results. Create one dedicated project folder when work starts; do not duplicate one analysis under multiple subjects.
 
+## Classification & Cross-Reference System
+
+All ideas should be classified **Standalone**, **Extension**, or **Integrated case study** before work begins. Maintain one canonical folder for actual project files. The [Portfolio Organization Guide](Portfolio-Organization.md) provides decision rules and metadata standards.
+
+- [Creator Economy: 12 planned projects](../Creator-Economy-Analytics/PROJECT-STATUS-TRACKER.md)
+- [AI & Predictive Analytics: 21 planned projects](../AI-and-Predictive-Analytics/PROJECT-STATUS-TRACKER.md)
+- [AI relationship and overlap register](../AI-and-Predictive-Analytics/PROJECT-RELATIONSHIPS.md)
+- [Industry-Specific index](../Industry-Specific-Analytics/README.md)
+- [Platform-Specific index](../Platform-Specific-Analytics/README.md)
+
+These are idea registers and indexes, **not** additional completed projects. Do not count an extension as independent evidence of a new business engagement.
+
 ## Suggested next practice
 
 1. Budget versus actual expenses in Excel.
