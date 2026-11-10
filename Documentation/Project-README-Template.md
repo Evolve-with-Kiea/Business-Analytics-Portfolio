@@ -1,37 +1,79 @@
-# Project Title
+# [Project Title]
 
-**Status:** Planned / In progress / Built under review / Complete  
-**Tools:** Name the tools actually used.  
-**Data:** Identify the actual source and reporting period.
+**Status:** Planned / In Progress / Draft for Review / Verified / Portfolio-Ready
+**Classification:** Standalone / Extension / Integrated case study
+**Work type:** Guided / Independent / Authorized client
+**Data:** [Synthetic / Public / Authorized]
 
-## Business question
+## Demo Link
+[Link to a real demo if available; otherwise state "Not available yet."]
 
-What decision does the analysis support, and for whom?
+## Table of Contents
+[Optional for longer projects.]
 
-## Data and methods
+## Business Understanding
+**Problem:** [What decision does the analysis support?]
+**Audience:** [Who uses the analysis?]
+**Questions and success criteria:** [Specific measurable questions.]
 
-Describe source permissions, row grain, units, preparation, calculations, and assumptions. Link to the dataset or dictionary and executable deliverables.
+## Data Understanding
+| Attribute | Details |
+|---|---|
+| Source and permission | [Source, license, authorization] |
+| Period | [Reporting period] |
+| Grain and record count | [What one row represents; verified count] |
+| Fields and data quality | [Data dictionary, missing values, limitations] |
 
-## Results
+## Key Performance Indicators
+| KPI | Definition / formula | Business purpose | Validation |
+|---|---|---|---|
+| [Metric] | [Numerator, denominator, filters, units] | [Purpose] | [Check] |
 
-Add only findings supported by completed analysis. Leave this section explicitly pending while work is in progress.
+## Screenshots of Visualizations / Results
+[Insert actual screenshots with relative paths and alt text. Otherwise "Pending — no visualization published."]
 
-## Validation
+## Technologies
+[Tools actually used and their purpose; distinguish proposed tools.]
 
-Record checks actually performed, their results, and any remaining limitations.
+## Setup
+1. [Required software and versions]
+2. [How to access the data and working files]
+3. [How to open, run, refresh and reproduce outputs]
+4. [Any manual checks]
 
-## Recommendations
+## Approach
+1. Define business problem and scope.
+2. Inspect and prepare authorized data.
+3. Calculate metrics or implement methods.
+4. Visualize and interpret results.
+5. Independently validate and document limitations.
 
-Connect proposed actions to evidence. Do not claim those actions have been executed unless documented.
+## Key Findings
+[Only verified observations with supporting evidence. If not started, "Pending."]
 
-## Reproduce or refresh
+## Business Recommendations
+[Proposed actions supported by evidence; no invented measured impact.]
 
-Explain how to open/run the project, required dependencies, reporting-date controls, and outputs that need manual review.
+## Validation & Limitations
+[Checks actually performed, results, unresolved issues, data limitations.]
+### AI / Predictive Evaluation (if applicable)
+[Non-AI baseline, test design, appropriate error metrics, prompt/model details, human review, privacy and bias risks.]
 
-## Files and preview
+## Status
+**Current:** [Evidence-based status]
+**Completed artifacts:** [Real links]
+**Open items:** [Pending checks]
+**Next action:** [Concrete next step]
 
-Add working relative links only after the referenced files exist.
+## Skills Demonstrated & Lessons Learned
+[Skills actually practiced, challenges, improvements.]
 
-## Learning and assistance
+## Credits
+- **Author:** [Name]
+- **Data source:** [Attribution and permissions]
+- **Course / references:** [Only sources actually used]
+- **AI assistance:** [Honest description]
+- **Contributors:** [If applicable]
 
-Describe what you practiced, what assistance was used, and what you would improve next.
+---
+Use one canonical project folder and link to it from other category indexes. Remove inapplicable headings only when justified. Never invent demo links, screenshots, findings, client work or results.
