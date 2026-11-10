@@ -10,6 +10,10 @@
 
 ---
 
+## Official README Format
+
+Use the [Cisco-aligned canonical README template](../Documentation/Project-README-Template.md) for individual creator project files. Keep the expanded framework below for specialized financial, marketing and creator documentation. Planned deliverables are not completed work.
+
 ## Project Overview
 
 Provide a concise introduction explaining what the project analyzes, why the business problem matters, and how the analysis supports decision-making.
