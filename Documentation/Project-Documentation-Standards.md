@@ -6,7 +6,7 @@ Choose the primary tool, then create a descriptive folder when work begins. Keep
 
 The existing AR project lives at `Excel-Projects/Financial-Analysis/AR-Collections-Analysis/`.
 
-## Official Cisco-Aligned README Standard
+## Project Standard
 
 Individual project READMEs use the [canonical project template](Project-README-Template.md): Project Title, Demo Link, optional Table of Contents, Business Understanding, Data Understanding, Screenshots of Visualizations/Results, Technologies, Setup, Approach, Status, and Credits. Additional professional sections: KPIs, Findings, Business Recommendations, Validation & Limitations, Skills & Lessons Learned. AI projects also document baseline and model evaluation. Portfolio and category READMEs remain navigation indexes, not fictional completed case studies. Keep missing demos and results labeled pending.
 
