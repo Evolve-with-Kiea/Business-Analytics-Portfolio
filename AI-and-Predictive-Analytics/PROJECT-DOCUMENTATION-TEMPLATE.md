@@ -4,6 +4,10 @@
 
 > Copy into an individual project README when actual work begins. Replace bracketed prompts. Never claim completion or link nonexistent deliverables.
 
+## Official README Format
+
+Use the [Cisco-aligned canonical README template](../Documentation/Project-README-Template.md) for individual AI project files. Keep the detailed framework below as supplementary guidance for model evaluation, baseline comparisons, reproducibility and responsible AI. No unverified results or nonexistent demos.
+
 ## Project Overview
 
 | Field | Value |
